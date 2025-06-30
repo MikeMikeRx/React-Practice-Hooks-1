@@ -1,0 +1,32 @@
+.oneTask {
+    background-color: #9FC131;
+    display: flex ;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 500px;
+    margin: 10px auto;
+    border: 3px solid black;
+    border-radius: 15px;
+
+}
+
+.oneTask h4 {
+    padding-left: 20px;
+}
+
+.oneTask button {
+    background-color:#042940 ;
+    color: aliceblue;
+    border: none;
+    border-radius: 10px;
+    padding-right: 10px;
+}
+
+.main-button{
+    background-color: #DBF227;
+    padding: 25px;
+    border-radius: 15px;
+    cursor: pointer;
+    display: block;
+    margin: 30px auto;
+}
